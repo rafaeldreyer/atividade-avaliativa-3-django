@@ -21,8 +21,3 @@ Os dados são persistidos em um banco de dados MySQL.
 
 ## Integrantes da Equipe
 - Rafael Dreyer
-- (adicione os demais integrantes, se houver)
-
-## Observações
-Projeto desenvolvido conforme roteiro disponibilizado pelo professor.
-Repositório público conforme exigido na atividade.
